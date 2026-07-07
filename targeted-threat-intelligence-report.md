@@ -1,3 +1,5 @@
+## Raport - wymagania
+
 **Treść sprawozdania z ukierunkowanej analizy zagrożeń (art. 10 ust. 5)**
 
 Sprawozdanie z ukierunkowanej analizy zagrożeń zawiera informacje na temat wszystkich poniższych kwestii:
@@ -40,3 +42,16 @@ c) jeden scenariusz obejmujący m.in. naruszenie poufności informacji.
 ```
 
 6. W stosownych przypadkach opis scenariusza niezwiązanego z wyszukiwaniem istniejących zagrożeń, o którym mowa w art. 10 ust. 4.
+
+## Threat actor longlist
+
+1. Intent (based on previous events initiated by given threat actor)
+2. Capability - level of proficiency and resources
+3. Motivation - reasons to act against the organisation
+
+
+| Threat Actor | Rationale for inclusion | Intent | Capability | Overall threat score | Overall threat | Rationale for exclusion |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Nation State Groups | Geopolitical tensions | High | High | 4 | High | - |
+| Organized Crime Groups | Financial gain opportunities | High | Moderate | 3 | Moderate | - |
+| Hacktivists | Geopolitical tensions | Moderate | Low | 3 | Moderate | - |
