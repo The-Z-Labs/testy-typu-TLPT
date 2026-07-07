@@ -84,7 +84,7 @@ Analizując powyższe, warto w szczególności zauważyć iż:
 4. Dostawca analizy zagrożeń powinien być ubezpieczony od odpowiedzialności cywilnej z tytułu wykonywania zawodu, w tym od ryzyka uchybień i zaniedbań;
 5. Personel dostawcy analizy zagrożeń powinien być wolny od konfliktów interesów (np. nie pracować wcześniej jako członek blue team'u w testowanej organizacji lub nie pełnić jednocześnie roli analityka zagrożeń i testera).
 
-**Rola dostawców analizy zagrożeń w testach TLPT**
+**Rola i zadania dostawców analizy zagrożeń w testach TLPT**
 
 [Art. 10 pkt rozporządzenia delegowanego (EU) 2025/1190](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32025R1190#art_10) zawiera dalsze wytyczne dla dostawcy analizy zagrożeń.
 
