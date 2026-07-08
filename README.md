@@ -38,7 +38,7 @@ W szczególności należy zauważyć, iż dostawca taki jest zawsze zewnętrzny 
 
 *W celu zapewnienia, aby dostawca analizy zagrożeń uwzględnił zagrożenia istotne dla podmiotu finansowego, testerzy, zespół typu control team i kierownicy testów powinni udzielić mu informacji zwrotnej na temat projektu sprawozdania z analizy zagrożeń. Jako punkt odniesienia dla krajowego krajobrazu zagrożeń dostawca analizy zagrożeń może wykorzystać ogólny krajobraz zagrożeń stworzony przez organ ds. TLPT dla sektora finansowego danego państwa członkowskiego, o ile jest on dostępny. Jak wynika ze stosowania ram TIBER-EU, proces gromadzenia informacji na potrzeby analizy zagrożeń trwa zazwyczaj około 4 tygodni.*
 
-**Dostawca analizy zagrożeń - wymogi**
+### Wymogi formalne dla dostawcy analizy zagrożeń
 
 Ogólne wymagania jakie powinień spełniać taki dostawca zostały przedstawione w art. 27 pkt 1 [rozporządzenia (EU) 2022/2554](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32022R2554) (DORA):
 
@@ -84,15 +84,23 @@ Analizując powyższe, warto w szczególności zauważyć iż:
 4. Dostawca analizy zagrożeń powinien być ubezpieczony od odpowiedzialności cywilnej z tytułu wykonywania zawodu, w tym od ryzyka uchybień i zaniedbań;
 5. Personel dostawcy analizy zagrożeń powinien być wolny od konfliktów interesów (np. nie pracować wcześniej jako członek blue team'u w testowanej organizacji lub nie pełnić jednocześnie roli analityka zagrożeń i testera).
 
-**GTL**
+### Ogólny krajobraz zagrożeń (GTL)
+
+[Rozporządzenie delegowane (EU) 2025/1190](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32025R1190#art_10)) rekomenduje (art. 10 pkt 1) aby dostawca analizy zagrożeń jako punkt wyjścia dla swojej analizy wykorzystał ogólny krajobraz zagrożeń dla sektora finansowego, jeśli takowy jest dostępny:
+
+*... W przypadku gdy organ ds. TLPT stworzył ogólny krajobraz zagrożeń dla sektora finansowego państwa członkowskiego, dostawca analizy zagrożeń może wykorzystać ten krajobraz jako punkt odniesienia dla krajowego krajobrazu zagrożeń. ...*
+
+W Polsce organem ds. TLPT został [Urząd Komisji Nadzoru Finansowego (UKNF), który od 2025 roku publikuje taki dokument:
 
 [Krajobraz cyberzagrożeń w polskim sektorze finansowym (2026)](https://cebrf.knf.gov.pl/images/GTL%202026.pdf)
 
-[Polski Rynek Finansowy w obliczu zagrożeń](https://www.knf.gov.pl/knf/pl/komponenty/img/Raport_Roczny_CSIRT_KNF_2025-23_03_97516.pdf)
-
 [Krajobraz cyberzagrożeń w polskim sektorze finansowym (2025)](https://cebrf.knf.gov.pl/images/GTL_2025_FINAL.pdf)
 
-**Rola i zadania dostawców analizy zagrożeń w testach TLPT**
+Warto, także zapoznać się z:
+
+[Polski Rynek Finansowy w obliczu zagrożeń](https://www.knf.gov.pl/knf/pl/komponenty/img/Raport_Roczny_CSIRT_KNF_2025-23_03_97516.pdf)
+
+### Rola i zadania dostawców analizy zagrożeń w testach TLPT
 
 [Art. 10 pkt rozporządzenia delegowanego (EU) 2025/1190](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32025R1190#art_10) zawiera dalsze wytyczne dla dostawcy analizy zagrożeń.
 
