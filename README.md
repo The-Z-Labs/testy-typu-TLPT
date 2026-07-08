@@ -90,7 +90,7 @@ Analizując powyższe, warto w szczególności zauważyć iż:
 
 *... W przypadku gdy organ ds. TLPT stworzył ogólny krajobraz zagrożeń dla sektora finansowego państwa członkowskiego, dostawca analizy zagrożeń może wykorzystać ten krajobraz jako punkt odniesienia dla krajowego krajobrazu zagrożeń. ...*
 
-W Polsce organem ds. TLPT został [Urząd Komisji Nadzoru Finansowego (UKNF), który od 2025 roku publikuje taki dokument:
+W Polsce organem ds. TLPT został [Urząd Komisji Nadzoru Finansowego (UKNF)](https://www.knf.gov.pl/), który od 2025 roku publikuje taki dokument:
 
 [Krajobraz cyberzagrożeń w polskim sektorze finansowym (2026)](https://cebrf.knf.gov.pl/images/GTL%202026.pdf)
 
