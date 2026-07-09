@@ -5,7 +5,7 @@
 | :--- | :--- | :--- | :--- |
 | APTX | abc | Financially motivate | - |
 
-## Adwersarze kierujący się zyskiem i/lub obierające za cel instytucje finansowe
+## Adwersarze kierujący się zyskiem i/lub obierający za cel instytucje finansowe
 
 | Threat Actor | Other names | Rationale for inclusion | References |
 | :--- | :--- | :--- | :--- |
