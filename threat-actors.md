@@ -21,5 +21,5 @@
 | FIN7 | Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet | Known to target financial services. Financially motivated. | - |
 | Storm-0501 | LockBit | Known to target financial services. Financially motivated. |  |
 | Akira | GOLD SAHARA, PUNK SPIDER, Howling Scorpius | Financially motivated. | - |
-| RansomHub | | Claimed 38 victims in the financial sector between April 2024 and April 2025. Financially motivated. Ransomware-as-a-Service (RaaS) group.  | https://flashpoint.io/blog/top-threat-actor-groups-targeting-financial-sector/<br>https://www.sentinelone.com/anthology/ransomhub/ |
+| RansomHub | | Claimed 38 victims in the financial sector between April 2024 and April 2025.<br>Financially motivated.<br>Ransomware-as-a-Service (RaaS) group.  | https://flashpoint.io/blog/top-threat-actor-groups-targeting-financial-sector/<br>https://www.sentinelone.com/anthology/ransomhub/ |
 
