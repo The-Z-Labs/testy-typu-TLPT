@@ -26,4 +26,6 @@
 | Storm-0501 | LockBit | 1. Known to target financial services.<br>2. Financially motivated. |  |
 | Akira | GOLD SAHARA, PUNK SPIDER, Howling Scorpius | Financially motivated. | - |
 | RansomHub | | 1. Claimed 38 victims in the financial sector between April 2024 and April 2025.<br>2. Financially motivated.<br>3. Ransomware-as-a-Service (RaaS) group.  | 1. https://flashpoint.io/blog/top-threat-actor-groups-targeting-financial-sector/<br>2. https://www.sentinelone.com/anthology/ransomhub/ |
+| Wizard Spider | UNC1878, TEMP.MixMaster, Grim Spider, FIN12, GOLD BLACKBURN, ITG23, Periwinkle Tempest, DEV-0193, Pistachio Tempest, DEV-0237 | 1. Financially motivated.<br>2. Russia-based threat group originally known for the creation and deployment of TrickBot - spyware program for targeting banking sites in North America, Australia, and throughout Europe. | 1. https://attack.mitre.org/groups/G0102/<br>2. https://attack.mitre.org/software/S0266/ |
+
 
