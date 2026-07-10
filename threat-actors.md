@@ -1,6 +1,21 @@
 
 ## Adwersarze aktywni w Polsce
 
+Kryteria dodawania do listy:
+1. Grupy / adwersarze, o publicznie udokumentowanej aktywności przeciwko polskim podmiotom (publicznym lub prywatnym) w okresie trzy letnim (2024 - 2026);
+2. Bez względu na sektor (podmiot publiczny, finanse, energetyka, itd.), w którym ofiara funkcjonuje;
+
+Źródła, które wzięto pod uwagę tworząc poniższą listę, dzielą się na dwie cześci:
+1. Reprezentatywne opracowania przedstawiające stan krajobrazu zagrożeń / cyberzagrożeń:
+
+ - [POLISH INTERNAL SECURITY AGENCY (ABW). Selected actvities](https://www.abw.gov.pl/download/24/4877/InternalSecurityAgencyABW2024-2025Selectedactvities.pdf): raport polskiej służby specjalnej odpowiedzialnej za bezpieczeństwo wewnętrzne (w tym bezpieczeństwo cyberprzestrzeni) państwa;
+ - 
+
+2. Dodatkowe, szczegółowe i tematyczne opracowania danej aktywności i/lub incydentu poszerzające kontekst, w którym dana grupa / adwersarz został zidentyfikowany:
+
+- [Energy Sector Incident Report – 29 December](https://cert.pl/uploads/docs/CERT_Polska_Energy_Sector_Incident_Report_2025.pdf)
+- [ELECTRUM: Cyber Attack on Poland’s Electric System 2025](https://5943619.hs-sites.com/hubfs/Reports/dragos-2025-poland-attack-report.pdf)
+
 | Threat Actor | Other names | Rationale for inclusion | References |
 | :--- | :--- | :--- | :--- |
 | APT28 | IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, Forest Blizzard, FROZENLAKE, GruesomeLarch  | 1. Among the most active groups in the field of cyber attacks, we can indicate, Russian APT28 (Fancy Bear).<br>2. Acting on behalf of state entities (primarily Eastern intelligence services), whose primary objective remains the acquisition of strategic intelligence, cyber espionage, the conduct of influence operations, and the execution of multi-domain disinformation campaigns. | [POLISH INTERNAL SECURITY AGENCY (ABW). Selected actvities](https://www.abw.gov.pl/download/24/4877/InternalSecurityAgencyABW2024-2025Selectedactvities.pdf) |
@@ -8,6 +23,10 @@
 | UNC1151 | | 1. Group linked to the Belarusian state apparatus<br>2. Acting on behalf of state entities (primarily Eastern intelligence services), whose primary objective remains the acquisition of strategic intelligence, cyber espionage, the conduct of influence operations, and the execution of multi-domain disinformation campaigns. | [POLISH INTERNAL SECURITY AGENCY (ABW). Selected actvities](https://www.abw.gov.pl/download/24/4877/InternalSecurityAgencyABW2024-2025Selectedactvities.pdf)  |
 | Dragonfly | TEMP.Isotope, DYMALLOY, Berserk Bear, TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear, Ghost Blizzard, BROMINE, STATIC TUNDRA | Based on the collected data, CERT Polska concludes that the infrastructure used to obtain initial access, exfiltrate data, establish VPN tunnels for wiper malware deployment, and damage the server’s RAID array disks overlaps with the “Static Tundra” infrastructure. | 1. https://attack.mitre.org/campaigns/C0063/<br>2. [Energy Sector Incident Report – 29 December](https://cert.pl/uploads/docs/CERT_Polska_Energy_Sector_Incident_Report_2025.pdf) |
 | Sandworm Team | ELECTRUM, Telebots, IRON VIKING, BlackEnergy (Group), Quedagh, Voodoo Bear, IRIDIUM, Seashell Blizzard, FROZENBARENTS, APT44  | Dragos is involved in an incident response at one of the numerous incidents across the Polish system that are part of this attack. None of the details of this report contain sensitive incident response or client information. However, through these efforts, Dragos confirms the seriousness of the attack and assesses with moderate confidence that the threat group ELECTRUM is responsible. | 1. https://attack.mitre.org/campaigns/C0063/<br>2. https://5943619.hs-sites.com/hubfs/Reports/dragos-2025-poland-attack-report.pdf |
+| APT15 | Ke3chang, Mirage, Vixen Panda, GREF, Playful Dragon, RoyalAPT, NICKEL, Nylon Typhoon |  | [Raportu o stanie bezpieczeństwa cyberprzestrzeni RP w 2024](https://csirt.gov.pl/download/3/221/RaportostaniebezpieczenstwacyberprzestrzeniRPw2024.pdf) |
+| Volt Typhoon | BRONZE SILHOUETTE, Vanguard Panda, DEV-0391, UNC3236, Voltzite, Insidious Taurus, DazedToad | | [Raportu o stanie bezpieczeństwa cyberprzestrzeni RP w 2024](https://csirt.gov.pl/download/3/221/RaportostaniebezpieczenstwacyberprzestrzeniRPw2024.pdf) |
+| UAC-0050 | DaVinci Group | Financially motivated. | 1. [Raportu o stanie bezpieczeństwa cyberprzestrzeni RP w 2024](https://csirt.gov.pl/download/3/221/RaportostaniebezpieczenstwacyberprzestrzeniRPw2024.pdf)<br>2. https://cert.gov.ua/article/6277840 |
+
 
 ## Adwersarze kierujący się zyskiem i/lub obierający za cel instytucje finansowe
 
@@ -19,7 +38,7 @@
 | APT16 | | Known to target Japanese and Taiwanese organizations in the financial services industry. | - |
 | APT15 | Nylon Typhoon, Vixen Panda, Mirage, GREF, Playful Dragon, RoyalAPT, NICKEL | Global targets in the trade, economic and financial in support of Chinese government interests. | - |
 | APT1 | | Known to target financial services. | - |
-| APT38 | NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, Sapphire Sleet, COPERNICIUM | Known to target financial institutions worldwide. | - |
+| APT38 | NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, Sapphire Sleet, COPERNICIUM | Known to target financial institutions worldwide. | https://socradar.io/free-tools/threat-actor/detail/393/Lazarus%20Group |
 | APT34 | OilRig / COBALT GYPSY, IRN2, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM, ITG13, Earth Simnavaz, Crambus, TA452 | This threat group has conducted broad targeting across a variety of industries, including financial and has largely focused its operations within the Middle East. | - |
 | Lazarous Group | Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet | 1. Known to target financial services.<br>2. Financially motivated. | - |
 | FIN7 | Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet | 1. Known to target financial services.<br>2. Financially motivated. | - |
