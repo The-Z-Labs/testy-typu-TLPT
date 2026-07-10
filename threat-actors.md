@@ -3,7 +3,9 @@
 
 | Threat Actor | Other names | Rationale for inclusion | References |
 | :--- | :--- | :--- | :--- |
-| APTX | abc | Financially motivate | - |
+| APT28 | IRON TWILIGHT, SNAKEMACKEREL, Swallowtail, Group 74, Sednit, Sofacy, Pawn Storm, Fancy Bear, STRONTIUM, Tsar Team, Threat Group-4127, TG-4127, Forest Blizzard, FROZENLAKE, GruesomeLarch  | Wśród ugrupowań wykazujących szczególną aktywność w zakresie ataków w cyberprzestrzeni możemy wskazać m.in. rosyjskie APT28 (Fancy Bear).<br>Zespoły specjalistów działające na zlecenie podmiotów państwowych (w tym głównie wschodnich służb specjalnych), których nadrzędnym celem pozostaje pozyskiwanie strategicznych danych wywiadowczych, cyberszpiegostwo, prowadzenie operacji wpływu oraz realizacja wieloobszarowych kampanii dezinformacyjnych. | - |
+| APT29 |  IRON RITUAL, IRON HEMLOCK, NobleBaron, Dark Halo, NOBELIUM, UNC2452, YTTRIUM, The Dukes, Cozy Bear, CozyDuke, SolarStorm, Blue Kitsune, UNC3524, Midnight Blizzard | Wśród ugrupowań wykazujących szczególną aktywność w zakresie ataków w cyberprzestrzeni możemy wskazać m.in. rosyjskie APT29 (Midnight Blizzard).<br>Zespoły specjalistów działające na zlecenie podmiotów państwowych (w tym głównie wschodnich służb specjalnych), których nadrzędnym celem pozostaje pozyskiwanie strategicznych danych wywiadowczych, cyberszpiegostwo, prowadzenie operacji wpływu oraz realizacja wieloobszarowych kampanii dezinformacyjnych.  | - |
+| UNC1151 | | Powiązana z białoruskim aparatem państwowym grupa UNC1151.<br>Zespoły specjalistów działające na zlecenie podmiotów państwowych (w tym głównie wschodnich służb specjalnych), których nadrzędnym celem pozostaje pozyskiwanie strategicznych danych wywiadowczych, cyberszpiegostwo, prowadzenie operacji wpływu oraz realizacja wieloobszarowych kampanii dezinformacyjnych. | - |
 
 ## Adwersarze kierujący się zyskiem i/lub obierający za cel instytucje finansowe
 
