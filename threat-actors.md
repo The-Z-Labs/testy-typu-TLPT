@@ -40,7 +40,7 @@ Kryteria dodawania do listy:
 | APT1 | | Known to target financial services. | - |
 | APT38 | NICKEL GLADSTONE, BeagleBoyz, Bluenoroff, Stardust Chollima, Sapphire Sleet, COPERNICIUM | Known to target financial institutions worldwide. | https://socradar.io/free-tools/threat-actor/detail/393/Lazarus%20Group |
 | APT34 | OilRig / COBALT GYPSY, IRN2, Helix Kitten, Evasive Serpens, Hazel Sandstorm, EUROPIUM, ITG13, Earth Simnavaz, Crambus, TA452 | This threat group has conducted broad targeting across a variety of industries, including financial and has largely focused its operations within the Middle East. | - |
-| Lazarous Group | Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet | 1. Known to target financial services.<br>2. Financially motivated. | - |
+| Lazarous Group | Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet | 1. Known to target financial services.<br>2. Financially motivated. | https://eurepoc.eu/publication/apt-profile-lazarus-group/ |
 | FIN7 | Labyrinth Chollima, HIDDEN COBRA, Guardians of Peace, ZINC, NICKEL ACADEMY, Diamond Sleet | 1. Known to target financial services.<br>2. Financially motivated. | - |
 | Storm-0501 | LockBit | 1. Known to target financial services.<br>2. Financially motivated. |  |
 | Akira | GOLD SAHARA, PUNK SPIDER, Howling Scorpius | Financially motivated. | - |
